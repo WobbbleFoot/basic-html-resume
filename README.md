@@ -1,2 +1,2 @@
 # basic-html-resume
-Very barebones HTML resume.
+i submitted this for a hackathon👍
